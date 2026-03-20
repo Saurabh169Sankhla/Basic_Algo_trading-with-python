@@ -1,8 +1,6 @@
 # Algo Trading System
 
-This simple Python project contains a backtester and a very basic live
-trading skeleton.  It is **not** production ready and is provided for
-educational purposes only.
+This Project is real time algo trading system using Angel one smartApi platform connected with the code, where you can actually automate your decisions and buy, sell activities. It also have a backtester which makes it more robust
 
 ## Components
 
